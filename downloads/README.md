@@ -4,6 +4,7 @@
 - [-223534200_456239230](./-223534200_456239230)
 - [MediaDownloaderQt5-5.6.0.setup](./MediaDownloaderQt5-5.6.0.setup)
 - [Napster-Setup](./Napster-Setup)
+- [YoutubeDownloader.win-x64](./YoutubeDownloader.win-x64)
 - [archive_20260508_212632](./archive_20260508_212632)
 - [archive_20260508_213228](./archive_20260508_213228)
 - [archive_20260509_000645](./archive_20260509_000645)
