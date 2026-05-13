@@ -20,6 +20,7 @@
 - [femoutxxx-very-verily-fucked-verily-rachel](./femoutxxx-very-verily-fucked-verily-rachel)
 - [kt_player](./kt_player)
 - [mhrv-rs-android-arm64-v8a-v1.9.23](./mhrv-rs-android-arm64-v8a-v1.9.23)
+- [mhrv-rs-android-arm64-v8a-v1.9.24](./mhrv-rs-android-arm64-v8a-v1.9.24)
 - [mhrv-rs-windows-amd64](./mhrv-rs-windows-amd64)
 - [transmidnight-dusti-bunni-cums-from-getting-fucked-by-bbc](./transmidnight-dusti-bunni-cums-from-getting-fucked-by-bbc)
 - [v2rayN-windows-64-desktop](./v2rayN-windows-64-desktop)
