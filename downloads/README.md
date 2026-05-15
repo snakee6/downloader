@@ -6,6 +6,7 @@
 - [8c5af500-92de-44c6-8a0c-d3c3afb552c9](./8c5af500-92de-44c6-8a0c-d3c3afb552c9)
 - [MediaDownloaderQt5-5.6.0.setup](./MediaDownloaderQt5-5.6.0.setup)
 - [Napster-Setup](./Napster-Setup)
+- [ShirOKhorshid-2026.05.14](./ShirOKhorshid-2026.05.14)
 - [YTDownloader_Win](./YTDownloader_Win)
 - [YoutubeDownloader.win-arm64](./YoutubeDownloader.win-arm64)
 - [YoutubeDownloader.win-x64](./YoutubeDownloader.win-x64)
